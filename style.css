@@ -1,0 +1,44 @@
+li {
+  list-style: none;
+}
+
+.coin {
+  border-radius: 50%;
+}
+
+.penny {
+  width: 100px;
+  height: 100px;
+  background-color: brown;
+  text-align: center;
+  color: white;
+}
+
+.nickle {
+  width: 120px;
+  height: 120px;
+  background-color: silver;
+  text-align: center;
+  color: white;
+}
+
+.dime {
+  width: 90px;
+  height: 90px;
+  background-color: silver;
+  text-align: center;
+  color: white;
+}
+
+.quarter {
+  width: 150px;
+  height: 150px;
+  background-color: silver;
+  text-align: center;
+  color: white;
+}
+
+/* #3 */
+.lightbulb {
+  background-color: darkgrey;
+}
